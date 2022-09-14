@@ -1,0 +1,19 @@
+p {
+    background-color: #ffc0cb; 
+    font-family: verdana, "dejavu sans", sans-serif;
+}
+
+.element-two {
+    color: #0000FF; 
+    font-size: 36px; 
+}
+
+.element-three {
+    font-size:24px; 
+}
+
+.element-four {
+    background-color: #90EE90;
+    font-size: 24px; 
+    font-weight: 700; 
+}
